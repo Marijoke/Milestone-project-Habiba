@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&family=Raleway:wght@100;200;300;400&display=swap');
 
 
-/*-------------------------------------------------------Colours */
-
 
 
 /*-------------------------------------------------------Nav/header */
@@ -47,8 +45,6 @@ nav {
     color:#EDC9C7;
 }
 
-/*-------------------------------------------- Heading*/
-
 .title {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
@@ -71,6 +67,26 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+.jumbotron #outnow {
+    font-family: "Montserrat", sans-serif;
+    font-size:1.5em;
+    font-weight: 450;
+    margin: 0;
+   
+}
+.jumbotron #listen {
+    font-family: "Montserrat", sans-serif;
+    font-size:1em;
+    font-weight: 300;
+    margin: 0;
+   
+}
+.jumbotron {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 
 /*-------------------------------------------------------Media */
 
@@ -121,9 +137,6 @@ p {
     column-count: 3;
     }
 
-    #logo {
-        float: right;
-    }
 }
 
 
