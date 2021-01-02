@@ -74,6 +74,7 @@ p {
 }
 .jumbotron {
     padding: .5rem 0;
+    color: #726e75;
 }
 /* insert ref here  */
 .iframe-container {
@@ -123,7 +124,7 @@ p {
 }
 .social-media {
     text-align: center;
-    font-size: 2rem;
+    text-decoration: none;
 }
 #email-contact {
     text-align: center;
@@ -131,9 +132,18 @@ p {
 }
 #email-contact a {
     font-size: 1.5rem;
+    color: #F5F5F5;
 }
-i {
-    background-color: #feffea;
+.social-media a {
+    font-size: 3rem;
+    color: #F5F5F5
+}
+#email-contact a:hover {
+    color:#726e75;
+    text-decoration: none;
+}
+.social-media a:hover {
+    color:#726e75;
 }
 footer h5 {
     font-family: "Raleway", sans-serif;
