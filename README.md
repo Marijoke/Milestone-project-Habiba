@@ -111,6 +111,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - I received inspiration for this project from other artist sites like [Summer Walker](https://www.summerwalkermusic.com/) and [H.E.R](https://www.her-official.com/home/). I used the website to help me decide what features to have and what features I did not like. 
 - I worked closely with the artist to ensure I was creating something that she felt suited her brand.
 - I used Slack to help troubleshoot issues I has as well as many google searches. 
+- My Tutor Spencer for 
 
 
 
