@@ -117,12 +117,18 @@ p {
     width: 100%;
 }
 #sign-up-modal {
-    font-size: 2rem;
+    font-size: 5rem;
     min-height: 80vh;
 }
 .modal-content {
-    min-height: 60%;
+    min-height: 25%;
     text-align: center;
+    padding-top: 8rem;
+    position: relative;
+    display: flex;
+    width: 100%;
+    background-color:#fff;
+    border: 1px solid rgba(255, 255, 255, 0.2);
 }
 #nav-sign-btn {
     background-color: white;
