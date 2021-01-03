@@ -128,6 +128,8 @@ https://www.w3schools.com/html/html_youtube.asp
 taught me to add &mute!
 https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html 
 learned mail to for contact in footer
+https://apps.elfsight.com/panel/applications/
+to build event calendar
 
 used my love running work to help me create a gallery page. 
 

@@ -131,6 +131,10 @@ p {
     background-color: #EDBBE3;
     font-size: 1.5rem;
 }
+#upcoming-events {
+    padding: 2.5rem;
+    margin-top: 1rem;
+}
 .footer-section {
     background-color: #EDBBE3;
     padding: 1.5rem;
