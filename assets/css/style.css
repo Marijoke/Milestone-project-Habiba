@@ -49,13 +49,18 @@ nav {
 .title {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
-    font-size: 4.6rem;
+    font-size: 4rem;
     margin-top: 1rem;
+}
+h4 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
 }
 p {
     font-family: "Raleway", sans-serif;
     font-weight: 300;
-    font-size: 2.8rem;
+    font-size: 1.5rem;
 }
 p {
     display: block;
@@ -69,6 +74,7 @@ p {
     font-size: 1.5rem;
     font-weight: 300;
     margin: 0;
+    color: #EDBBE3;
 }
 .jumbotron #listen {
     font-family: "Montserrat", sans-serif;
@@ -90,7 +96,7 @@ p {
     color:#EEBBE4;
     text-decoration:none;
 }
-/* insert ref here  */
+/* https://www.youtube.com/watch?v=9YffrCViTVk&feature=emb_logo*/
 .iframe-container {
     position: relative;
     width: 100%;
@@ -123,7 +129,7 @@ p {
 .modal-content {
     min-height: 25%;
     text-align: center;
-    padding-top: 8rem;
+    padding: 8rem, 0, 8rem, 0;
     position: relative;
     display: flex;
     width: 100%;
@@ -144,7 +150,7 @@ p {
 .footer-section {
     background-color: #EDBBE3;
     padding: 1.5rem;
-    margin-top: 2rem;
+    margin: 1rem;
 }
 .social-media {
     text-align: center;
@@ -177,9 +183,27 @@ footer h5 {
     #gal-photos {
         column-count: 4;
     }
+    #bio p {
+        font-size: 2rem;
+    }
+    .jumbotron #outnow {
+        font-size: 2rem;
+    }
+    .jumbotron #listen {
+        font-size: 1.5rem;
+    }
 }
 @media screen and (min-width: 1200px) {
     #gal-photos {
         column-count: 5;
+    }
+    #bio p {
+        font-size: 3rem;
+    }
+    .jumbotron #outnow {
+        font-size: 3rem;
+    }
+    .jumbotron #listen {
+        font-size: 2.5rem;
     }
 }
