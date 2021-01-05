@@ -1,8 +1,8 @@
 # Habiba Music
 
 Habiba Music is to showcase Habiba, an up-and-coming UK R&B musician. The website will give new and existing fans the opportunity to hear her latest music and learn a bit more about her as an artist while being able to see upcoming shows and book tickets. The website was built mobile first and is responsive across all devices.
-Insert visual here
-[Please see the deployed site here](https://marijoke.github.io/Milestone-project-Habiba/)  
+[](assets/images/Multi-device-Mock-up.png)
+[Please see the deployed site here](https://marijoke.github.io/Milestone-project-Habiba/)
 ## UX
  This website is for existing and potential fans of Habiba. The website is to help Habiba build a relationship with fans by sharing images, music and information about her personal life. Visitors benefit from the ability to the sign up to the Habiba Music mailing list giving them exclusive access to her latest content and pre-sale tickets. 
 I discussed the purpose of the website with the artist and spoke to a few fans which led me to the current build. Habiba wanted to keep the relationship she has with her fans as authentic as possible which is why there was a first-person biography included with the Music Monday videos Habiba creates for fun sometimes based on fan suggestions. 
@@ -10,10 +10,10 @@ The Home page must feature the most important content which in this case is the 
 ###Wireframes
 I created the wireframes using [Balsamiq](https://balsamiq.com/)
 
-####Font 
+#### Font 
 The fonts chosen for the website are Montserrat (https://fonts.google.com/specimen/Montserrat?query=mont) for headings and Raleway (https://fonts.google.com/specimen/Raleway?query=ralewa) for body text. The fonts are from Google fonts where they were recommended as a popular pairing. I chose Montserrat because the text is clean and clear yet warm and friendly which is what attracts Habiba’s fans to her and what represents her music well.
 
-####Colours
+#### Colours
 The website was designed with the original branding in mind. Habiba’s logo is pink and white as is the aesthetic of her Instagram where I drew inspiration. I matched the Navigation bar and Footer to the logo and used [Coolers] (https://coolors.co/) to come up with complimentary colours that are used throughout the website. 
 [insert coolers photo]
 ##User Stories 
@@ -77,7 +77,7 @@ In particular, you should provide all details of the differences between the dep
 - Separate git branch?
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
-##Bugs
+## Bugs
 The Bootstrap collapsible menu was not showing the preview. When selected in mobile mode nothing happened. After some assistance from my tutor the bootstrap CDN was updated and the menu was able to display properly in the previews.
 Making the YouTube video responsive was a challenge. Thankfully, I found a YouTube tutorial (https://www.youtube.com/watch?v=9YffrCViTVk&feature=emb_logo) that worked perfectly. 
 The logo would not stay in the centre and adjusting any aspect of the box model was a temporary solution. After trying to float the image and changing the position to relative of an absolute container with no luck, I got help from W3schools.com (https://www.w3schools.com/howto/howto_css_image_center.asp)
@@ -85,8 +85,7 @@ The logo would not stay in the centre and adjusting any aspect of the box model 
 ## Credits
 ### Content 
 -	Habiba Biography was written alongside the artist to ensure accuracy and tone of voice. 
--	Mail to links
-o	https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html 
+-	Mail to links https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html 
 learned mail to for contact in footer
 - I used my love running project to help me create a gallery page (https://repl.it/@Marijoke/Love-Running#gallery.html)
 - I used bootstrap to help with help the logo in the Navigation Bar
@@ -106,4 +105,4 @@ Youtube Videos were sent via private link from the artist or located on Habiba�
 - My Tutor Spencer for patiently giving me his time to help me work through any issues
 - My mother for making sure I eat when I get too carried away with work.
 - Habiba & her fans for helpful feedback.
-I received inspiration for the website from other artist sites like [Summer Walker](https://www.summerwalkermusic.com/) and [H.E.R](https://www.her-official.com/home/). I used the website to help me decide what features to have and what features I did not like.
+- I received inspiration for the website from other artist sites like [Summer Walker](https://www.summerwalkermusic.com/) and [H.E.R](https://www.her-official.com/home/). I used the website to help me decide what features to have and what features I did not like.
