@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&family=Raleway:wght@100;200;300;400&display=swap');
-/*-------------------------------------------------------Nav/header */
 * {
     font-size: 10px;
 }
@@ -61,13 +60,7 @@ p {
     font-family: "Raleway", sans-serif;
     font-weight: 300;
     font-size: 1.5rem;
-}
-p {
     display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0;
-    margin-inline-end: 0;
 }
 .jumbotron #outnow {
     font-family: "Montserrat", sans-serif;
@@ -109,8 +102,8 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 5% 0 5% 0;
+    border: none;
 }
 #gal-photos {
     clear: both;
@@ -129,12 +122,17 @@ p {
 .modal-content {
     min-height: 25%;
     text-align: center;
-    padding: 8rem, 0, 8rem, 0;
     position: relative;
     display: flex;
     width: 100%;
     background-color:#fff;
     border: 1px solid rgba(255, 255, 255, 0.2);
+}
+.container {
+    width: 100%;
+    padding:2rem 0 2rem 0;
+    margin-right: auto;
+    margin-left: auto;
 }
 #nav-sign-btn {
     background-color: white;
@@ -192,18 +190,24 @@ footer h5 {
     .jumbotron #listen {
         font-size: 1.5rem;
     }
+    h4 {
+        font-size: 2.5rem;
+    }
 }
 @media screen and (min-width: 1200px) {
     #gal-photos {
         column-count: 5;
     }
     #bio p {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     .jumbotron #outnow {
         font-size: 3rem;
     }
     .jumbotron #listen {
         font-size: 2.5rem;
+    }
+    h4 {
+        font-size: 3rem;
     }
 }
