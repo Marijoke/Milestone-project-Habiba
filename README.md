@@ -1,7 +1,8 @@
-#Habiba Music
+# Habiba Music
+
 Habiba Music is to showcase Habiba, an up-and-coming UK R&B musician. The website will give new and existing fans the opportunity to hear her latest music and learn a bit more about her as an artist while being able to see upcoming shows and book tickets. The website was built mobile first and is responsive across all devices.
 Insert visual here
-Add deployment link here 
+[Please see the deployed site here](https://marijoke.github.io/Milestone-project-Habiba/)  
 ## UX
  This website is for existing and potential fans of Habiba. The website is to help Habiba build a relationship with fans by sharing images, music and information about her personal life. Visitors benefit from the ability to the sign up to the Habiba Music mailing list giving them exclusive access to her latest content and pre-sale tickets. 
 I discussed the purpose of the website with the artist and spoke to a few fans which led me to the current build. Habiba wanted to keep the relationship she has with her fans as authentic as possible which is why there was a first-person biography included with the Music Monday videos Habiba creates for fun sometimes based on fan suggestions. 
