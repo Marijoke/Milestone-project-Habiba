@@ -98,7 +98,6 @@ The logo would not stay in the centre and adjusting any aspect of the box model 
 - I used my [Love Running project](https://repl.it/@Marijoke/Love-Running#gallery.html) to help me create a gallery page.
 - I used [Bootstrap](https://stackoverflow.com/questions/18474564/bootstrap-3-navbar-with-logo) to help with help the logo in the Navigation Bar
 - [Readme template](https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md#existing-features) and a [peer example](https://github.com/adowlin/project-1-dungeons-dragons/blob/master/README.md) helped me write my Readme file.
-
 ### Media
 - The photos used in this site were either taken by me or obtained from the artist herself. I have been granted permission to use them for the purpose of this project. Selected Photos are featured [here](https://photos.app.goo.gl/xAYMJZRdzJdymJRs7)
 - YouTube Tutorial for responsive video [here](https://www.youtube.com/watch?v=9YffrCViTVk&feature=emb_logo)
@@ -108,7 +107,7 @@ The logo would not stay in the centre and adjusting any aspect of the box model 
 - Youtube Videos were sent via private link from the artist or located on [Habiba’s YouTube page](https://www.youtube.com/c/HabibaAdamu/videos)
 ### Acknowledgements
 - I worked closely with the artist to ensure I was creating something that she felt suited her brand.
-- I used Slack to help troubleshoot issues I has as well as many google searches. 
+- I used Slack to help troubleshoot issues I had as well as many google searches. 
 - My Tutor Spencer for patiently giving me his time to help me work through any issues
 - My mother for making sure I eat when I get too carried away with work.
 - Habiba & her fans for helpful feedback.
